@@ -13,15 +13,15 @@ This is a Python-based GUI application that encrypts and decrypts text, numbers,
 2. Install Tkinter (usually pre-installed with Python).
 3. Run the program using:
    ```sh
-   python caesar_cipher_gui.py
+   python caesar.py
 
 ## Example Usage
-Input: "Hello123!", Shift = 3, Mode = Encrypt
-Output: "Khoor456$"
-Input: "Khoor456$", Shift = 3, Mode = Decrypt
-Output: "Hello123!"
+1. Input: "Hello123!", Shift = 3, Mode = Encrypt.
+Output: "Khoor456$".
+2. Input: "Khoor456$", Shift = 3, Mode = Decrypt.
+Output: "Hello123!".
 ## Dependencies
-Python 3.x
-Tkinter (built-in with Python)
+-Python 3.x.
+-Tkinter (built-in with Python).
 ## Author
 Michael Ochieng'
